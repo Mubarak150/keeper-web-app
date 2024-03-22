@@ -1,9 +1,5 @@
 import React from "react";
-import notes from "../notes";
 import DeleteIcon from '@mui/icons-material/Delete';
-
-
-
 
 function Note (props) {
     return (
